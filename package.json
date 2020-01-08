@@ -4,21 +4,20 @@
   "description": "---",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "docs:build": "vuepress build",
     "docs:dev": "vuepress dev docs"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/naveenkash/handbook.git"
+    "url": "git+https://github.com/KemuriTechnology/handbook.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/naveenkash/handbook/issues"
+    "url": "https://github.com/KemuriTechnology/handbook/issues"
   },
-  "homepage": "https://github.com/naveenkash/handbook#readme",
+  "homepage": "https://github.com/KemuriTechnology/handbook#readme",
   "dependencies": {},
   "devDependencies": {
     "vuepress": "^1.2.0"
