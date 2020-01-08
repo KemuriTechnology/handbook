@@ -1,0 +1,25 @@
+{
+  "name": "handbook",
+  "version": "1.0.0",
+  "description": "---",
+  "main": "index.js",
+  "scripts": {
+    "docs:build": "vuepress build",
+    "docs:dev": "vuepress dev docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KemuriTechnology/handbook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KemuriTechnology/handbook/issues"
+  },
+  "homepage": "https://github.com/KemuriTechnology/handbook#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "vuepress": "^1.2.0"
+  }
+}
