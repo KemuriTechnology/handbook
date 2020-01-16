@@ -23,19 +23,18 @@ module.exports = {
                     ]
                 },
                 {
-                    title: 'Other Rules',   // required
-                    collapsable: false, // optional, defaults to true
-                    sidebarDepth: 1,    // optional, defaults to 1
-                    children: [
-                        ['/guide/environment/', 'Environment']
-                    ]
-                },
-                {
                     title: 'Style Guide',   // required
                     collapsable: false, // optional, defaults to true
                     sidebarDepth: 1,    // optional, defaults to 1
                     children: [
                         ['/guide/style-guide/', 'Style Guide']
+                    ]
+                },
+                {
+                    title: 'Other Rules',   // required
+                    collapsable: false, // optional, defaults to true
+                    sidebarDepth: 1,    // optional, defaults to 1
+                    children: [
                     ]
                 },
             ]
