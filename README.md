@@ -18,5 +18,5 @@ yarn install
 
 # Running Locally
 ```
-yarn serve
+yarn docs:dev
 ```
