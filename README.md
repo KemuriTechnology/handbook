@@ -10,3 +10,13 @@ homeFeatures:
 ---
 
 <HomeFeatures />
+
+# Setup
+```
+yarn install
+```
+
+# Running Locally
+```
+yarn serve
+```
